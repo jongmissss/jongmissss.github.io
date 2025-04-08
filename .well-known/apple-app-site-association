@@ -1,11 +1,16 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "6SQU8FMKDU.com.visang.tabtap",
-        "paths": ["/web/event/*"]
-      }
-    ]
-  }
+      "details": [
+           {
+             "appIDs": ["6SQU8FMKDU.com.visang.tabtap"],
+             "components": [
+               {
+                  "/": "/web/event/*",
+                  "comment": "Matches any URL universal link"
+               }
+             ],
+             "paths": ["/web/event/*"]
+           }
+       ]
+   }
 }
