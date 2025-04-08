@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.visang.and.tabtap",
+      "sha256_cert_fingerprints":
+        ["EF:08:99:B0:F5:E7:81:F2:DE:77:55:E5:2B:3F:B5:AB:9B:A6:AF:6B:04:56:D0:84:A3:68:13:C0:DD:5A:BD:48"]
+    }
+  }
+]
